@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.titulo {
+    margin: 20px 20px;
+    text-align: center;
+}
+
+.div_maior{
+    width: 900px;
+    height: 475px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+.rodada {
+    font-size: 1.3rem;
+    width: 875px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 15px auto;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.jogo {
+    width: 100%;
+    float: left;
+}
+
+.subtitulo {
+    padding-left: 15px;
+}
